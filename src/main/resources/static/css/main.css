@@ -1,0 +1,17 @@
+body {
+	
+	background-image: url('../img/background.jpg');
+}
+
+h1 {
+	color: red;
+	width: 70%;
+	height: 20%;
+}
+form{
+	background-color: white;
+	width: 50%;
+	border-color: black;
+	border-width: 5%;
+}
+
